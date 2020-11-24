@@ -1,3 +1,4 @@
 Hi ,
 
-This is the new text file for adding
+This is the new text file for adding.
+Added second line for commit.
