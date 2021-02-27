@@ -3,3 +3,5 @@ Hi ,
 This is the new text file for adding.
 Added second line for commit.
 This is third line i am adding.
+
+This is to check the latest commit process
